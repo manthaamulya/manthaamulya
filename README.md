@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **mantha.amulya@gmail.com**
 
+- ⚡ Fun fact: I am also an **Automobile Engineer**
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -26,5 +28,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manthaamulya&show_icons=true&locale=en&layout=compact" alt="manthaamulya" /></p>
 
-- ⚡ Fun fact: ...
--->
