@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mantha.amulya@gmail.com**
 
-- ⚡ Fun fact: I am also an **Automobile Engineer**
+- ⚡ Fun fact: I am also an **Automobile Engineer** and a **meme challenge winner** :joy:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
